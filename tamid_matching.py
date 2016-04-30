@@ -2,7 +2,6 @@
 """
 Download Munkres from http://software.clapper.org/munkres/#installing_via_easyinstall
 Download Anaconda PYTHON version 2.7 from https://www.continuum.io/downloads
-	- large package with all awesome stuff
 """
 import sys
 from munkres import Munkres, print_matrix, make_cost_matrix
